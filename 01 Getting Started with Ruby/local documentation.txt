@@ -1,0 +1,7 @@
+type in terminal:
+
+ri
+
+examples:
+ri String#uppercase
+ri Object#inspect

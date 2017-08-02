@@ -1,0 +1,7 @@
+type in terminal:
+
+irb
+
+	OR
+
+irb --simple-prompt
